@@ -17,7 +17,7 @@ const io = socketIo(server);
 const socketToA = socketClient(SERVER_A);
 
 // TEST : SEE THE IP OF SERVER A
-console.log(SERVER_A);
+//console.log(SERVER_A);
 
 io.on('connection', (socket) => {
     console.log('A client connected to Server B');
