@@ -54,10 +54,10 @@ sudo npm install -g --force nodemon
 
 ### Before running, add this to the command line
 ```bash
-export SERVER_A_IP=your_server_b_ip_address
+export SERVER_A_IP=your_server_a_ip_address
 ```
 
-Replace 'your_server_b_ip_address' to the ip address of your server.
+Replace 'your_server_a_ip_address' to the ip address of your server.
 
 ### To run the project:
 ```bash
